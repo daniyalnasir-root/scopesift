@@ -1,0 +1,11 @@
+# ./scopesift -i examples/scope-mixed.txt -p 'hackerone' -o examples/mixed-results.json
+ASSET                 CONFIDENCE    SCORE   FINGERPRINT                     EVIDENCE
+--------------------  ------------  ------  ------------------------------  --------------------
+netlify.app           SUSPICIOUS    0       Netlify                         third-party:netlify.app
+hackerone.com         HIGH          3       cloudflare                      cert-san:hackerone.com
+www.hackerone.com     HIGH          3       cloudflare                      cert-san:hackerone.com
+google.com            LOW           0       gws                             
+github.com            LOW           0       github.com                      
+example.com           LOW           0       cloudflare                      
+
+summary: 6 assets  |  HIGH=2  MEDIUM=0  LOW=3  SUSPICIOUS=1  UNRESOLVED=0

@@ -1,0 +1,11 @@
+# ./scopesift -i examples/scope-h1.txt -p 'hackerone,hackerone inc'
+ASSET                  CONFIDENCE    SCORE   FINGERPRINT                     EVIDENCE
+---------------------  ------------  ------  ------------------------------  --------------------
+hackerone.com          HIGH          6       cloudflare                      cert-san:hackerone.com; cert-subj:HackerOne Inc.
+www.hackerone.com      HIGH          6       cloudflare                      cert-san:hackerone.com; cert-subj:HackerOne Inc.
+api.hackerone.com      HIGH          6       cloudflare                      cert-san:hackerone.com; cert-subj:HackerOne Inc.
+support.hackerone.com  HIGH          3       cloudflare                      cert-san:support.hackerone.com
+docs.hackerone.com     HIGH          6       cloudflare                      cert-san:hackerone.com; cert-subj:HackerOne Inc.
+mta.hackerone.com      UNRESOLVED    0                                       
+
+summary: 6 assets  |  HIGH=5  MEDIUM=0  LOW=0  SUSPICIOUS=0  UNRESOLVED=1

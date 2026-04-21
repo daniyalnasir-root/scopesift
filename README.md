@@ -157,6 +157,13 @@ Run it only against systems you own or have explicit written permission to test.
 The author accepts no liability for misuse. Unauthorized scanning may violate
 local, state, or federal law.
 
+## About the Author
+
+[Daniyal Nasir](https://www.daniyalnasir.com) is a Doha-based cybersecurity consultant and penetration tester with over a decade of hands-on offensive security work: Fortune-500 bug bounty disclosures, VAPT engagements, and responsible vulnerability research. Certified OSCP, CEH, CPENT, LPT, CISA, CISM, and CASP+.
+
+- LinkedIn: https://www.linkedin.com/in/daniyalnasir
+- Website:  https://www.daniyalnasir.com
+
 ## License
 
 MIT, see [LICENSE](LICENSE).

@@ -159,7 +159,7 @@ local, state, or federal law.
 
 ## About the Author
 
-[Daniyal Nasir](https://www.daniyalnasir.com) is a senior **Cybersecurity Consultant**, **Penetration Tester**, and **VAPT (Vulnerability Assessment and Penetration Testing) Consultant** serving clients worldwide. With 10+ years of hands-on **offensive security**, **ethical hacking**, and **bug bounty hunting** experience, he delivers **web application penetration testing**, **API security testing**, **network penetration testing**, **mobile application security assessments**, and **cloud security audits** for Fortune 500 enterprises and high-growth SaaS platforms. Holds **OSCP**, **LPT**, **CPENT**, **CEH**, **CISA**, **CISM**, and **CASP+** certifications.
+[Daniyal Nasir](https://www.daniyalnasir.com) is a senior **Cybersecurity Consultant**, **Penetration Tester**, and **VAPT (Vulnerability Assessment and Penetration Testing) Consultant** with 10+ years of hands-on **offensive security**, **ethical hacking**, and **bug bounty hunting** experience. He has delivered **web application penetration testing**, **API security testing**, **network penetration testing**, **mobile application security assessments**, and **cloud security audits** for Fortune 500 enterprises and high-growth SaaS platforms, with engagements spanning the **Middle East, Asia, Europe, and North America**. Holds **OSCP**, **LPT**, **CPENT**, **CEH**, **CISA**, **CISM**, and **CASP+** certifications.
 
 - LinkedIn: https://www.linkedin.com/in/daniyalnasir
 - Website:  https://www.daniyalnasir.com
